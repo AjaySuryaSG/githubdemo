@@ -1,0 +1,8 @@
+#to ignore a single file 
+my file
+
+#to ignore thr directory
+temp/
+
+#to ignore all log files
+*.log
